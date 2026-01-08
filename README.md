@@ -67,27 +67,6 @@ const muhammadYaseen = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📱 Mobile App Development
-
-I specialize in building cross-platform and native mobile applications with a focus on user experience and performance.
-
-### 🎯 Mobile Development Skills
-- **Cross-Platform:** Flutter, Dart, React Native
-- **iOS Development:** Swift, SwiftUI, UIKit, Xcode, CocoaPods
-- **Android Development:** Kotlin, Java, Android Studio
-- **State Management:** Provider, Riverpod, Bloc, Redux
-- **Backend Integration:** REST APIs, GraphQL, Firebase
-- **App Deployment:** App Store, Google Play Store
-- **Testing:** Unit Testing, Widget Testing, Integration Testing
-
-### 🛠️ Mobile Tools & Services
-- **Development:** Xcode, Android Studio, VS Code
-- **Version Control:** Git, GitHub
-- **CI/CD:** GitHub Actions, Fastlane, Codemagic
-- **Analytics:** Firebase Analytics, Google Analytics
-- **Crash Reporting:** Firebase Crashlytics, Sentry
-- **Design:** Figma, Adobe XD, Sketch
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -118,16 +97,9 @@ I specialize in building cross-platform and native mobile applications with a fo
 - 📚 Always learning and exploring new technologies
 - 🍎 iOS & Android app development enthusiast
 
-## 🎨 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadYaseen7799&color=64ffda&style=for-the-badge" alt="Profile views" />
   <p>⭐️ From <a href="https://github.com/MuhammadYaseen7799">MuhammadYaseen7799</a></p>
 </div>
 
