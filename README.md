@@ -9,7 +9,7 @@
 ## 📊 GitHub Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadYaseen7799/MuhammadYaseen7799/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadYaseen7799&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64ffda&line=64ffda&point=64ffda&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ## 🚀 About Me
