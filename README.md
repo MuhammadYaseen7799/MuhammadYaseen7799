@@ -61,29 +61,6 @@ const muhammadYaseen = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYaseen7799&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYaseen7799&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=MuhammadYaseen7799&theme=tokyonight&hide_border=true&background=0D1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadYaseen7799&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Achievements" />
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadYaseen7799&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64ffda&line=64ffda&point=64ffda" />
-</div>
-
 ## 📱 Mobile App Development
 
 I specialize in building cross-platform and native mobile applications with a focus on user experience and performance.
@@ -135,25 +112,11 @@ I specialize in building cross-platform and native mobile applications with a fo
 - 📚 Always learning and exploring new technologies
 - 🍎 iOS & Android app development enthusiast
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 🎨 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadYaseen7799/MuhammadYaseen7799/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
-</div>
-
-<!-- Note: The snake animation will appear after the GitHub Actions workflow runs for the first time. 
-     You can manually trigger it from the Actions tab in your repository. -->
 
 ---
 
