@@ -22,9 +22,9 @@
 
 ### Expertise
 
-• Mobile App Development  
-• Web Development  
-• Full Stack Development
+• Mobile&nbsp;App&nbsp;Development
+• Web Development
+• Full&nbsp;Stack&nbsp;Development
 
 </td>
 <td width="50%" valign="top">
