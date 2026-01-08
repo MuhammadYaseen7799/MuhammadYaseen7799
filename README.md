@@ -1,9 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Yaseen!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+a+Full+Stack+Developer!;" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor1=0a192f&customColor2=64ffda&height=180&section=header&text=Muhammad%20Yaseen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
+
+## 📊 GitHub Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadYaseen7799/MuhammadYaseen7799/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </div>
 
 ## 🚀 About Me
