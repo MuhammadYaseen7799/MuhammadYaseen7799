@@ -6,6 +6,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor1=0a192f&customColor2=64ffda&height=180&section=header&text=Full%20Stack%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYaseen7799&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=MuhammadYaseen7799&theme=tokyonight&hide_border=true&background=0D1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" alt="GitHub Streak" />
+</div>
+
 ## GitHub Contributions
 
 <div align="center">
