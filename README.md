@@ -14,20 +14,60 @@
 
 ## About Me
 
+<div align="center">
+
 ```javascript
 const muhammadYaseen = {
   name: "Muhammad Yaseen",
-  role: "Software Engineer",
+  role: "Full Stack Developer",
   education: "Computer Science Graduate",
   experience: "4+ years",
   location: "Pakistan",
-  currentFocus: "Building innovative AI solutions",
   company: "Funkar AI",
-  interests: ["AI/ML", "Web Development", "Mobile App Development", "Full Stack Development"],
-  currentlyLearning: ["Advanced AI Models", "Mobile App Development", "Flutter", "iOS Development"],
+  
+  expertise: [
+    "Mobile App Development",
+    "Web Development", 
+    "Full Stack Development"
+  ],
+  
+  currentlyLearning: [
+    "AI/ML",
+    "GenAI (Generative AI)",
+    "Agentic AI"
+  ],
+  
+  currentFocus: "Building innovative AI solutions",
   lookingFor: "Collaboration on exciting projects"
 };
 ```
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Expertise
+- **Mobile App Development**
+- **Web Development**
+- **Full Stack Development**
+
+</td>
+<td width="50%" valign="top">
+
+#### Currently Learning
+- **AI/ML**
+- **GenAI (Generative AI)**
+- **Agentic AI**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## Tech Stack
 
