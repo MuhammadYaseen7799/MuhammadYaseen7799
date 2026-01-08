@@ -18,12 +18,12 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: MuhammadYaseen7799
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: output/github-contribution-grid-snake.svg
           
       - name: Push to GitHub
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dist/github-contribution-grid-snake.svg
+          git add output/
           git commit -m "Update contribution snake" || exit 0
           git push

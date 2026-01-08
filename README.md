@@ -17,8 +17,8 @@ const muhammadYaseen = {
   location: "Pakistan",
   currentFocus: "Building innovative AI solutions",
   company: "Funkar AI",
-  interests: ["AI/ML", "Web Development", "Full Stack Development"],
-  currentlyLearning: ["Advanced AI Models", "Cloud Architecture"],
+  interests: ["AI/ML", "Web Development", "Mobile App Development", "Full Stack Development"],
+  currentlyLearning: ["Advanced AI Models", "Mobile App Development", "Flutter", "iOS Development"],
   lookingFor: "Collaboration on exciting projects"
 };
 ```
@@ -33,6 +33,19 @@ const muhammadYaseen = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📱 Mobile App Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -51,18 +64,18 @@ const muhammadYaseen = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYaseen7799&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYaseen7799&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYaseen7799&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYaseen7799&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=MuhammadYaseen7799&theme=tokyonight&hide_border=true&background=0D1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" height="180em"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=MuhammadYaseen7799&theme=tokyonight&hide_border=true&background=0D1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadYaseen7799&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadYaseen7799&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Achievements" />
 </div>
 
 ## 📈 Activity Graph
@@ -71,19 +84,26 @@ const muhammadYaseen = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadYaseen7799&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64ffda&line=64ffda&point=64ffda" />
 </div>
 
-## 💼 Featured Projects
+## 📱 Mobile App Development
 
-### 🎯 Personality Prediction Based on Video using CNN
-- **Tech Stack:** Python, CNN, Deep Learning
-- **Description:** AI-powered personality prediction system using video analysis and convolutional neural networks
+I specialize in building cross-platform and native mobile applications with a focus on user experience and performance.
 
-### 🏠 Real Estate Demo
-- **Tech Stack:** CSS, Web Development
-- **Description:** Modern real estate website demo with responsive design
+### 🎯 Mobile Development Skills
+- **Cross-Platform:** Flutter, Dart, React Native
+- **iOS Development:** Swift, SwiftUI, UIKit, Xcode, CocoaPods
+- **Android Development:** Kotlin, Java, Android Studio
+- **State Management:** Provider, Riverpod, Bloc, Redux
+- **Backend Integration:** REST APIs, GraphQL, Firebase
+- **App Deployment:** App Store, Google Play Store
+- **Testing:** Unit Testing, Widget Testing, Integration Testing
 
-### 🔧 Plumbing Demo
-- **Tech Stack:** CSS, Web Development
-- **Description:** Professional plumbing services website demo
+### 🛠️ Mobile Tools & Services
+- **Development:** Xcode, Android Studio, VS Code
+- **Version Control:** Git, GitHub
+- **CI/CD:** GitHub Actions, Fastlane, Codemagic
+- **Analytics:** Firebase Analytics, Google Analytics
+- **Crash Reporting:** Firebase Crashlytics, Sentry
+- **Design:** Figma, Adobe XD, Sketch
 
 ## 🌐 Connect With Me
 
@@ -107,11 +127,13 @@ const muhammadYaseen = {
 
 ## 💡 Fun Facts
 
-- 🎯 Currently focusing on AI/ML innovations
+- 🎯 Currently focusing on AI/ML innovations & Mobile App Development
+- 📱 Building cross-platform mobile apps with Flutter & native iOS apps
 - 🚀 4+ years of software engineering experience
 - 🎨 Passionate about creating beautiful user experiences
 - 🤖 Building AI solutions at Funkar AI
 - 📚 Always learning and exploring new technologies
+- 🍎 iOS & Android app development enthusiast
 
 ## 📝 Latest Blog Posts
 
@@ -129,6 +151,9 @@ const muhammadYaseen = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/MuhammadYaseen7799/MuhammadYaseen7799/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </div>
+
+<!-- Note: The snake animation will appear after the GitHub Actions workflow runs for the first time. 
+     You can manually trigger it from the Actions tab in your repository. -->
 
 ---
 
