@@ -9,8 +9,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYaseen7799&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=MuhammadYaseen7799&theme=tokyonight&hide_border=true&background=0D1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYaseen7799&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=MuhammadYaseen7799&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## GitHub Contributions
