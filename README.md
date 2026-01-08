@@ -22,22 +22,18 @@
 
 ### Expertise
 
-```
-• Mobile App Development
-• Web Development
+• Mobile App Development  
+• Web Development  
 • Full Stack Development
-```
 
 </td>
 <td width="50%" valign="top">
 
 ### Currently Learning
 
-```
-• AI/ML
-• GenAI (Generative AI)
+• AI/ML  
+• GenAI (Generative AI)  
 • Agentic AI
-```
 
 </td>
 </tr>
