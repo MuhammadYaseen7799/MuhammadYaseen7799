@@ -16,52 +16,28 @@
 
 <div align="center">
 
-```javascript
-const muhammadYaseen = {
-  name: "Muhammad Yaseen",
-  role: "Full Stack Developer",
-  education: "Computer Science Graduate",
-  experience: "4+ years",
-  location: "Pakistan",
-  company: "Funkar AI",
-  
-  expertise: [
-    "Mobile App Development",
-    "Web Development", 
-    "Full Stack Development"
-  ],
-  
-  currentlyLearning: [
-    "AI/ML",
-    "GenAI (Generative AI)",
-    "Agentic AI"
-  ],
-  
-  currentFocus: "Building innovative AI solutions",
-  lookingFor: "Collaboration on exciting projects"
-};
-```
-
-</div>
-
-<div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### Expertise
-- **Mobile App Development**
-- **Web Development**
-- **Full Stack Development**
+### Expertise
+
+```
+• Mobile App Development
+• Web Development
+• Full Stack Development
+```
 
 </td>
 <td width="50%" valign="top">
 
-#### Currently Learning
-- **AI/ML**
-- **GenAI (Generative AI)**
-- **Agentic AI**
+### Currently Learning
+
+```
+• AI/ML
+• GenAI (Generative AI)
+• Agentic AI
+```
 
 </td>
 </tr>
