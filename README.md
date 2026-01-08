@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+a+Full+Stack+Developer!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Yaseen!;" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor1=0a192f&customColor2=64ffda&height=180&section=header&text=Muhammad%20Yaseen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor1=0a192f&customColor2=64ffda&height=180&section=header&text=Full%20Stack%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
-## 📊 GitHub Contributions
+## GitHub Contributions
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadYaseen7799&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64ffda&line=64ffda&point=64ffda&area=true" alt="GitHub Activity Graph" />
 </div>
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const muhammadYaseen = {
@@ -29,7 +29,7 @@ const muhammadYaseen = {
 };
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +40,7 @@ const muhammadYaseen = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📱 Mobile App Development
+### Mobile App Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -67,7 +67,7 @@ const muhammadYaseen = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://www.funkar.ai/" target="_blank">
@@ -87,15 +87,15 @@ const muhammadYaseen = {
   </a>
 </div>
 
-## 💡 Fun Facts
+## Fun Facts
 
-- 🎯 Currently focusing on AI/ML innovations & Mobile App Development
-- 📱 Building cross-platform mobile apps with Flutter & native iOS apps
-- 🚀 4+ years of software engineering experience
-- 🎨 Passionate about creating beautiful user experiences
-- 🤖 Building AI solutions at Funkar AI
-- 📚 Always learning and exploring new technologies
-- 🍎 iOS & Android app development enthusiast
+- Currently focusing on AI/ML innovations & Mobile App Development
+- Building cross-platform mobile apps with Flutter & native iOS apps
+- 4+ years of software engineering experience
+- Passionate about creating beautiful user experiences
+- Building AI solutions at Funkar AI
+- Always learning and exploring new technologies
+- iOS & Android app development enthusiast
 
 ---
 
