@@ -26,7 +26,7 @@ const yaseen = {
   web:         ["React", "Next.js", "Node.js", "TypeScript"],
   ai:          ["GenAI", "Agentic AI", "Computer Vision"],
   experience:  "4+ years",
-  shipped:     "10 apps on the App Store & Google Play",
+  shipped:     "11 apps on the App Store & Google Play",
   motto:       "Ship fast, polish forever ✨",
 };
 ```
@@ -69,6 +69,7 @@ const yaseen = {
 | App | What it does | Category | Download |
 |:--|:--|:--|:--:|
 | 🎨 **Funkar: AI Image & Video Maker** | Complete AI creative studio | Photo & Video | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/funkar-ai-image-video-maker/id6761338312) [![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.funkarai.app) |
+| 🛋️ **AI Home Renovate: Decoryx AI** | AI room & interior renovation | Graphics & Design | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/ai-home-renovate-decoryx-ai/id6761331411) [![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.homifyai.app) |
 | 🧒 **Kido AI: Kids Buddy & Tutor** | Parent-controlled AI buddy | Education | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/kido-ai-kids-buddy-tutor/id6804465152) [![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.kidoai.app) |
 | 📸 **AI Photo Editor: Andaaz AI** | AI photo & style editor | Lifestyle | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/ai-photo-editor-andaaz-ai/id6761788079) [![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.andaaz.app) |
 
@@ -132,7 +133,7 @@ const yaseen = {
 <a href="https://www.linkedin.com/in/muhammad-yaseen-7127211a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://app-portfolio-five.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=vercel&logoColor=0a192f" /></a>
 <a href="https://funkarai.studio/" target="_blank"><img src="https://img.shields.io/badge/Funkar_AI-000000?style=for-the-badge&logo=openai&logoColor=white" /></a>
-<a href="https://artsbyyaseen.agency/" target="_blank"><img src="https://img.shields.io/badge/Arts_by_Yaseen-9B59B6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://artsbyyaseen.com/" target="_blank"><img src="https://img.shields.io/badge/Arts_by_Yaseen-9B59B6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <br/><br/>
 
