@@ -16,12 +16,7 @@
 
 <br/>
 
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-<table>
-<tr>
-<td width="58%" valign="top">
+## 👨‍💻 About Me
 
 ```ts
 const yaseen = {
@@ -31,24 +26,10 @@ const yaseen = {
   web:         ["React", "Next.js", "Node.js", "TypeScript"],
   ai:          ["GenAI", "Agentic AI", "Computer Vision"],
   experience:  "4+ years",
-  shipping:    "Apps on App Store & Google Play",
+  shipped:     "10 apps on the App Store & Google Play",
   motto:       "Ship fast, polish forever ✨",
 };
 ```
-
-</td>
-<td width="42%" valign="top">
-
-- 🚀 Building AI products at **[Funkar AI](https://www.funkar.ai/)**
-- 📱 Shipping cross-platform & native mobile apps
-- 🧠 Exploring **GenAI** & **Agentic AI** workflows
-- 🎨 Running **[Arts by Yaseen](https://artsbyyaseen.agency/)** — web & app studio
-- 🌱 Always learning, always building
-- 💬 Ask me about **Flutter, iOS, AI integrations**
-
-</td>
-</tr>
-</table>
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 ## 🛠️ Tech Stack
@@ -73,47 +54,35 @@ const yaseen = {
 
 </div>
 
-<!-- ═══════════════════════════ FEATURED WORK ═══════════════════════════ -->
-## 🌟 Featured Work
+<!-- ═══════════════════════════ APPS ═══════════════════════════ -->
+## 📱 My Apps — Live on the Stores
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🎨 [Funkar AI](https://www.funkar.ai/)
-AI creative studio — text-to-image, AI image editing, UGC ads, video generation and photoshoot presets, all in one place.
+<a href="https://apps.apple.com/us/developer/muhammad-yaseen/id1888957333"><img src="https://img.shields.io/badge/All_iOS_Apps-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+<a href="https://play.google.com/store/apps/developer?id=ArtsByYaseen"><img src="https://img.shields.io/badge/All_Android_Apps-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
 
-`Next.js` `GenAI` `Flutter`
+</div>
 
-</td>
-<td width="50%" valign="top">
+### 🌍 iOS + Android
 
-### 🛋️ [Interior Design AI](https://interior.funkar.ai/)
-Redesign any room with AI — upload a photo, pick a style, get photorealistic interior concepts in seconds.
+| App | What it does | Category | Download |
+|:--|:--|:--|:--:|
+| 🎨 **Funkar: AI Image & Video Maker** | Complete AI creative studio | Photo & Video | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/funkar-ai-image-video-maker/id6761338312) [![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.funkarai.app) |
+| 🧒 **Kido AI: Kids Buddy & Tutor** | Parent-controlled AI buddy | Education | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/kido-ai-kids-buddy-tutor/id6804465152) [![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.kidoai.app) |
+| 📸 **AI Photo Editor: Andaaz AI** | AI photo & style editor | Lifestyle | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/ai-photo-editor-andaaz-ai/id6761788079) [![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.andaaz.app) |
 
-`AI` `Computer Vision` `Web`
+### 🍎 iOS
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💚 Mizaaj
-Mood-support & wellness app with mood check-ins, journaling, calming exercises and an AI companion (voice + text).
-
-`Swift` `iOS` `OpenAI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏋️ Fitness & AI Apps
-AI gym coach, rep counting with pose tracking, meal scanning and workout plans — plus games, editors and more.
-
-`Flutter` `ML Kit` `Firebase`
-
-</td>
-</tr>
-</table>
+| App | What it does | Category | Download |
+|:--|:--|:--|:--:|
+| 💚 **Mizaaj: AI Mood Buddy** | Talk, track & feel calmer | Lifestyle | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/mizaaj-ai-mood-buddy/id6804475498) |
+| 🏋️ **Metamorph Gym & Workout** | AI gym trainer & workouts | Health & Fitness | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/metamorph-gym-workout/id6809220187) |
+| 🕌 **Quran, Hadith & Deen – AZAL AI** | Quran, Hadith, dhikr & duas | Lifestyle | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/quran-hadith-deen-azal-ai/id6809142876) |
+| ⚽ **Players Finder – PlayConnect** | Find squads. Book. Play. | Sports | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/players-finder-playconnect/id6811448584) |
+| 🎾 **Paddle Up: Padel Game** | World tour padel matches | Games | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/paddle-up-padel-game/id6815696529) |
+| 🍢 **Mini-Boss: Street Food Stall** | Desi street food, chai & more | Games | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/mini-boss-street-food-stall/id6817603342) |
+| 🥗 **Food Run: Eat Smart** | Learn healthy eating by play | Games | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/food-run-eat-smart/id6817486845) |
 
 <!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
 ## 📊 GitHub Analytics
@@ -123,32 +92,35 @@ AI gym coach, rep counting with pose tracking, meal scanning and workout plans �
 <!-- 🔥 Streak (current + longest) -->
 <img src="https://streak-stats.demolab.com?user=MuhammadYaseen7799&theme=tokyonight&hide_border=true&background=0D1117&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&sideLabels=64FFDA&dates=8892B0&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1E2D3D&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="80%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadYaseen7799&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=CCD6F6&rank_icon=github" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYaseen7799&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=CCD6F6" height="170" alt="Top Languages"/>
-
 </div>
+
+<!-- The cards below are generated inside this repo by .github/workflows/update-readme.yml -->
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="./assets/metrics-stats.svg" alt="GitHub Stats" width="100%"/></td>
+<td width="50%" valign="top" align="center"><img src="./assets/metrics-languages.svg" alt="Top Languages" width="100%"/></td>
+</tr>
+</table>
 
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadYaseen7799&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area=true&area_color=64FFDA&custom_title=Contribution%20Graph%20%E2%80%94%20Last%2031%20Days" width="100%" alt="Activity Graph"/>
+  <img src="./assets/metrics-calendar.svg" alt="Contribution Activity" width="100%"/>
 </div>
 
-### 🏆 Trophies
+### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadYaseen7799&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+  <img src="./assets/metrics-achievements.svg" alt="Achievements" width="100%"/>
 </div>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadYaseen7799/MuhammadYaseen7799/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadYaseen7799/MuhammadYaseen7799/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/MuhammadYaseen7799/MuhammadYaseen7799/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img alt="Contribution snake" src="./assets/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -159,9 +131,8 @@ AI gym coach, rep counting with pose tracking, meal scanning and workout plans �
 
 <a href="https://www.linkedin.com/in/muhammad-yaseen-7127211a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://app-portfolio-five.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=vercel&logoColor=0a192f" /></a>
-<a href="https://www.funkar.ai/" target="_blank"><img src="https://img.shields.io/badge/Funkar_AI-000000?style=for-the-badge&logo=openai&logoColor=white" /></a>
+<a href="https://funkarai.studio/" target="_blank"><img src="https://img.shields.io/badge/Funkar_AI-000000?style=for-the-badge&logo=openai&logoColor=white" /></a>
 <a href="https://artsbyyaseen.agency/" target="_blank"><img src="https://img.shields.io/badge/Arts_by_Yaseen-9B59B6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://interior.funkar.ai/" target="_blank"><img src="https://img.shields.io/badge/Interior_AI-E67E22?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <br/><br/>
 
