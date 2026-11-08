@@ -26,7 +26,7 @@ const yaseen = {
   web:         ["React", "Next.js", "Node.js", "TypeScript"],
   ai:          ["GenAI", "Agentic AI", "Computer Vision"],
   experience:  "4+ years",
-  shipped:     "11 apps on the App Store & Google Play",
+  shipped:     "10 apps on the App Store & Google Play",
   motto:       "Ship fast, polish forever ✨",
 };
 ```
@@ -69,7 +69,6 @@ const yaseen = {
 | App | What it does | Category | Download |
 |:--|:--|:--|:--:|
 | 🎨 **Funkar: AI Image & Video Maker** | Complete AI creative studio | Photo & Video | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/funkar-ai-image-video-maker/id6761338312) [![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.funkarai.app) |
-| 🛋️ **AI Home Renovate: Decoryx AI** | AI room & interior renovation | Graphics & Design | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/ai-home-renovate-decoryx-ai/id6761331411) [![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.homifyai.app) |
 | 🧒 **Kido AI: Kids Buddy & Tutor** | Parent-controlled AI buddy | Education | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/kido-ai-kids-buddy-tutor/id6804465152) [![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.kidoai.app) |
 | 📸 **AI Photo Editor: Andaaz AI** | AI photo & style editor | Lifestyle | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/ai-photo-editor-andaaz-ai/id6761788079) [![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.andaaz.app) |
 
