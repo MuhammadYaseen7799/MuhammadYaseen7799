@@ -132,7 +132,7 @@ const yaseen = {
 <a href="https://www.linkedin.com/in/muhammad-yaseen-7127211a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://app-portfolio-five.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=vercel&logoColor=0a192f" /></a>
 <a href="https://funkarai.studio/" target="_blank"><img src="https://img.shields.io/badge/Funkar_AI-000000?style=for-the-badge&logo=openai&logoColor=white" /></a>
-<a href="https://artsbyyaseen.agency/" target="_blank"><img src="https://img.shields.io/badge/Arts_by_Yaseen-9B59B6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://artsbyyaseen.com/" target="_blank"><img src="https://img.shields.io/badge/Arts_by_Yaseen-9B59B6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <br/><br/>
 
